@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Codelikeme_CPP.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\MyTrainings\Animation_Montages\.idea\.idea.Codelikeme_CPP\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
